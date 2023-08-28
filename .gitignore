@@ -1,0 +1,21 @@
+# git cache 
+.angular
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# node dependancies
+node_modules
+
+# IDE's files
+/.idea
+.project
+.classpath
+.launch
+
+# IDE -vscode
+.vscode/*
+
+
